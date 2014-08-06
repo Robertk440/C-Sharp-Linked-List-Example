@@ -1,0 +1,6 @@
+c:\users\robert\documents\visual studio 2013\Projects\Linked-list-example\Linked-list-example\bin\Debug\Linked-list-example.exe.config
+c:\users\robert\documents\visual studio 2013\Projects\Linked-list-example\Linked-list-example\bin\Debug\Linked-list-example.exe
+c:\users\robert\documents\visual studio 2013\Projects\Linked-list-example\Linked-list-example\bin\Debug\Linked-list-example.pdb
+c:\users\robert\documents\visual studio 2013\Projects\Linked-list-example\Linked-list-example\obj\Debug\Linked-list-example.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2013\Projects\Linked-list-example\Linked-list-example\obj\Debug\Linked-list-example.exe
+c:\users\robert\documents\visual studio 2013\Projects\Linked-list-example\Linked-list-example\obj\Debug\Linked-list-example.pdb
